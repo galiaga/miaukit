@@ -1,0 +1,25 @@
+<svg width="327" height="296" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="298" width="329" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="221" width="221" y="69.45313" x="57.5" stroke-width="1.5" stroke="#000" fill="#ffffbc"/>
+  <path id="svg_3" d="m57.1975,69.07772l41.50001,-64.00001l41.50001,64.00001l-83.00002,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFDCEC"/>
+  <path id="svg_4" d="m195.1975,69.07772l41.50001,-64.00001l41.50001,64.00001l-83.00002,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFDCEC"/>
+  <ellipse ry="16.5" rx="16.5" id="svg_5" cy="135.95313" cx="120" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <ellipse ry="16.5" rx="16.5" id="svg_6" cy="136.95313" cx="217" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="198.45313" x2="1.5" y1="193.45313" x1="112.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="200.45313" x2="325.5" y1="190.45313" x1="213.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="167.45313" x2="1058.5" y1="168.45313" x1="1062.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="241.45313" x2="15.5" y1="210.45313" x1="115.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="229.45313" x2="317.5" y1="210.45313" x1="216.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="206.45313" x2="953.5" y1="208.45313" x1="953.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path transform="rotate(-180 169.21249389648438,190.19403076171875) " id="svg_13" d="m146.71251,207.19404l22.5,-34.00002l22.5,34.00002l-45,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
+ </g>
+</svg>
